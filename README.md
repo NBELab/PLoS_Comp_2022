@@ -10,6 +10,6 @@ Dependencies:
 - [Scipy](https://www.scipy.org/)
 - [Nengo](https://www.nengo.ai/)
 
-## [Images](https://github.com/NBELab/PLoS_Comp_2022/tree/main/images)
+[Images](https://github.com/NBELab/PLoS_Comp_2022/tree/main/images)
 
-## [Recreate Lu'v' plots (matlab)](https://github.com/NBELab/PLoS_Comp_2022/tree/main/matlab)
+[Lu'v' plots (matlab)](https://github.com/NBELab/PLoS_Comp_2022/tree/main/matlab)
